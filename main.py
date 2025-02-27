@@ -11,7 +11,7 @@ bot = Bot(token=TOKEN)
 dp = Dispatcher()
 
 # Replace with your name
-YOUR_NAME = "Jasurbek"
+YOUR_NAME = "Mamudjon"
 
 @dp.message()
 async def respond_to_name(message: Message):
